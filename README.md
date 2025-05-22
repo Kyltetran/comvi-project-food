@@ -1,6 +1,6 @@
 # VIETNAMESE FOOD DETECTION & CALORIE CALCULATION
 
-<img width="1470" alt="image" src="https://github.com/user-attachments/assets/78156919-f062-4dd2-84fe-207fb677599f" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/c670505d-7ac6-418a-af41-42feb8f8c741" />
 
 ## 1. Overview:
 
