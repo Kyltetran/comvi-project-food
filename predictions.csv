@@ -1,0 +1,1027 @@
+true_class,predicted_class,correct
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh xeo,No
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Goi cuon,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Com tam,No
+Banh mi,Goi cuon,No
+Banh mi,Pho,No
+Banh mi,Com tam,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Goi cuon,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Goi cuon,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh xeo,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Goi cuon,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Goi cuon,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Goi cuon,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Goi cuon,No
+Banh mi,Goi cuon,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Banh xeo,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Banh xeo,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Goi cuon,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Pho,No
+Banh mi,Banh mi,Yes
+Banh mi,Banh mi,Yes
+Banh mi,Pho,No
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Goi cuon,No
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh xeo,Yes
+Banh xeo,Pho,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Com tam,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Pho,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Goi cuon,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Pho,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Goi cuon,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Goi cuon,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Goi cuon,No
+Banh xeo,Goi cuon,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Goi cuon,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Goi cuon,No
+Banh xeo,Banh mi,No
+Banh xeo,Goi cuon,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh xeo,Yes
+Banh xeo,Goi cuon,No
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Goi cuon,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Goi cuon,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Goi cuon,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh xeo,Yes
+Banh xeo,Goi cuon,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Pho,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Goi cuon,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Goi cuon,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Goi cuon,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh mi,No
+Banh xeo,Goi cuon,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Goi cuon,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Pho,No
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Goi cuon,No
+Banh xeo,Banh mi,No
+Banh xeo,Goi cuon,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Pho,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Goi cuon,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Goi cuon,No
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Goi cuon,No
+Banh xeo,Pho,No
+Banh xeo,Goi cuon,No
+Banh xeo,Goi cuon,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh mi,No
+Banh xeo,Goi cuon,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Pho,No
+Banh xeo,Pho,No
+Banh xeo,Goi cuon,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Banh xeo,Pho,No
+Banh xeo,Banh xeo,Yes
+Banh xeo,Banh mi,No
+Banh xeo,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Pho,No
+Com tam,Banh mi,No
+Com tam,Goi cuon,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Goi cuon,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Goi cuon,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh xeo,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Goi cuon,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Goi cuon,No
+Com tam,Goi cuon,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Pho,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh xeo,No
+Com tam,Pho,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Goi cuon,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Pho,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Pho,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Goi cuon,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh xeo,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Pho,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh xeo,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Pho,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Banh mi,No
+Com tam,Pho,No
+Com tam,Banh mi,No
+Com tam,Pho,No
+Com tam,Banh xeo,No
+Com tam,Banh mi,No
+Com tam,Banh xeo,No
+Com tam,Banh xeo,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Goi cuon,Yes
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh xeo,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Banh xeo,No
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Pho,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Goi cuon,Yes
+Goi cuon,Com tam,No
+Goi cuon,Banh xeo,No
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh xeo,No
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Pho,No
+Goi cuon,Pho,No
+Goi cuon,Pho,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Banh xeo,No
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Banh mi,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Pho,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh xeo,No
+Goi cuon,Banh mi,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Banh xeo,No
+Goi cuon,Banh mi,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Banh xeo,No
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Pho,No
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Banh mi,No
+Goi cuon,Pho,No
+Goi cuon,Banh mi,No
+Goi cuon,Goi cuon,Yes
+Goi cuon,Goi cuon,Yes
+Goi cuon,Goi cuon,Yes
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh xeo,No
+Pho,Banh xeo,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh xeo,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh xeo,No
+Pho,Banh xeo,No
+Pho,Banh xeo,No
+Pho,Banh xeo,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Pho,Yes
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh xeo,No
+Pho,Banh xeo,No
+Pho,Banh xeo,No
+Pho,Banh xeo,No
+Pho,Banh xeo,No
+Pho,Pho,Yes
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Pho,Yes
+Pho,Banh xeo,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Pho,Yes
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Pho,Yes
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Goi cuon,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh xeo,No
+Pho,Banh mi,No
+Pho,Banh mi,No
