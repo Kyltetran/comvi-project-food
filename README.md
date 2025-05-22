@@ -1,5 +1,5 @@
-🍜 Vietnamese Food Detection & Calorie Calculation
-
+**🍜 Vietnamese Food Detection & Calorie Calculation
+**
 
 📌 Overview
 
